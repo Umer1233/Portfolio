@@ -1,0 +1,4 @@
+Supabase
+Project : testProduct
+Password : testProd@123%
+postgresql://postgres:[YOUR-PASSWORD]@db.nkiomjwhdcmfkozsbrqj.supabase.co:5432/postgres
